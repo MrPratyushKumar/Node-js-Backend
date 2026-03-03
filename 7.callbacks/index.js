@@ -25,7 +25,7 @@ fs.readFile('input.txt', 'utf8' , (err , data)=>{
 
 
 
-// Notes:
+// Notes:This is the example callback in the context of Nodejs 
 
 
 
